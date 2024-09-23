@@ -1,0 +1,15 @@
+def,words
+Process of Data Communication,The exchange of data between two or more devices through a transmission medium following specific rules (protocols).
+Transmitter,Prepares the data for transmission and sends it.
+Protocol,A set of rules that govern data communication.
+"Protocols, Standards, Standard Organizations",Protocols ensure compatibility between devices. Standards define specific protocols. Organizations like IEEE create and maintain these standards.
+Bits per Second,The number of signal events per second (not directly equivalent to bps).
+Analog Signal,"A continuously varying signal representing data (e.g., sound wave)."
+Digital Signal,"A signal composed of discrete steps representing data (e.g., 0s and 1s)."
+Analog to Digital,Converting analog signals to digital for transmission.
+Digital to Analog Conversion,Converting digital signals back to analog for use by devices.
+Network Benefits,"Resource sharing, improved communication, reliability, cost-effectiveness."
+LAN,"Covers a small geographic area (e.g., office building)."
+WAN,"Covers a large geographic area (e.g., the internet)."
+MAN,"Covers a metropolitan area (e.g., city-wide network)."
+Client-Server,Dedicated server provides resources to client devices.

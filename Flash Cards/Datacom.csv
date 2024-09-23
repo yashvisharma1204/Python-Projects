@@ -1,0 +1,23 @@
+﻿def,words
+Process of Data Communication,The exchange of data between two or more devices through a transmission medium following specific rules (protocols).
+Components,"Transmitter, Receiver, Medium, Message, Protocol"
+Transmitter,Prepares the data for transmission and sends it.
+Receiver,Receives the transmitted data and converts it back to its original form.
+Medium,"The physical path through which data travels (e.g., cable, radio waves)."
+Message,The actual data being communicated.
+Protocol,A set of rules that govern data communication.
+"Protocols, Standards, Standard Organizations",Protocols ensure compatibility between devices. Standards define specific protocols. Organizations like IEEE create and maintain these standards.
+"Bandwidth, Data Transmission Rate",The amount of data a medium can transmit in a unit of time (usually measured in Hertz [Hz]).
+Baud Rate,The speed at which data is transferred (bits per second [bps]).
+Bits per Second,The number of signal events per second (not directly equivalent to bps).
+Analog Signal,"A continuously varying signal representing data (e.g., sound wave)."
+Digital Signal,"A signal composed of discrete steps representing data (e.g., 0s and 1s)."
+Analog to Digital,Converting analog signals to digital for transmission.
+Digital to Analog Conversion,Converting digital signals back to analog for use by devices.
+Computer Network,Interconnected devices that share resources and communicate with each other.
+Network Benefits,"Resource sharing, improved communication, reliability, cost-effectiveness."
+LAN,"Covers a small geographic area (e.g., office building)."
+WAN,"Covers a large geographic area (e.g., the internet)."
+MAN,"Covers a metropolitan area (e.g., city-wide network)."
+Peer-to-Peer,Devices communicate directly with each other.
+Client-Server,Dedicated server provides resources to client devices.
