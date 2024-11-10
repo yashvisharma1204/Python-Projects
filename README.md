@@ -25,7 +25,8 @@ Welcome to **Yashvi's Python Projects**! This repository showcases a collection 
 ## 🛠 Technologies Used
 
 - **Python 3.x** - Core language for all projects 🐍
-- **Pygame** - Used in the Music Player and Snake Game 🎮
+- **Pygame** - Used in the Music Player
+- **Turtle Graphics** - Snake Game 🎮
 - **Tkinter** - GUI library for creating interactive applications 🖥️
 - **Networking libraries** - Applied in the Peer-to-Peer Simulation 🌐
 
