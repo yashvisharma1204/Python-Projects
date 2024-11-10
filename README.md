@@ -12,13 +12,15 @@ Welcome to **Yashvi's Python Projects**! This repository showcases a collection 
 
 ## 🌟 Projects
 
-| Project               | Description                                      | 
-|-----------------------|--------------------------------------------------|
-| [📚 **Flash Cards**](https://github.com/yashvisharma1204/python-projects/tree/main/Flash%20Cards) | A flash card app for studying and memorization. Flip through cards and test your knowledge!  | 
-| [🎶 **Music Player**](https://github.com/yashvisharma1204/python-projects/tree/main/Music%20Player) | A simple music player with play, pause, and skip functionality. Now organized and easy to use! |
-| [🔗 **Peer-to-Peer Simulation**](https://github.com/yashvisharma1204/python-projects/tree/main/Peer-to-Peer%20simulation) | A simulation of a P2P network, demonstrating basic file sharing concepts in a network. | 
-| [🐍 **Snake Game**](https://github.com/yashvisharma1204/python-projects/tree/main/Snake%20Game) | The classic Snake game recreated in Python! Grow your snake and dodge the walls. | 
-| [✅ **To-Do App**](https://github.com/yashvisharma1204/python-projects/tree/main/To_do_app-main) | A handy to-do list to track tasks, organize your day, and stay productive! | 
+| Project                                            | Description                                                                                              |
+|----------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| [📚 **Flash Cards**](https://github.com/yashvisharma1204/python-projects/tree/main/Flash%20Cards) | A flash card app for studying and memorization. Flip through cards and test your knowledge!              |
+| [🎶 **Music Player**](https://github.com/yashvisharma1204/python-projects/tree/main/Music%20Player) | A simple music player with play, pause, and skip functionality. Now organized and easy to use!            |
+| [🔗 **Peer-to-Peer Simulation**](https://github.com/yashvisharma1204/python-projects/tree/main/Peer-to-Peer%20simulation) | A simulation of a P2P network, demonstrating basic file sharing concepts in a network.                    |
+| [🐍 **Snake Game**](https://github.com/yashvisharma1204/python-projects/tree/main/Snake%20Game) | The classic Snake game recreated in Python! Grow your snake and dodge the walls.                           |
+| [✅ **To-Do App**](https://github.com/yashvisharma1204/python-projects/tree/main/To_do_app-main) | A handy to-do list to track tasks, organize your day, and stay productive!                                |
+| [🌍 **Xarray Data Analysis**](https://github.com/yashvisharma1204/python-projects/tree/main/Climate%data%20analysis) | Analyze climate data using xarray with datasets in NetCDF format, including variables like temperature, rainfall, and soil moisture. |
+| [🚗 **Uber Data Analysis**](https://github.com/yashvisharma1204/python-projects/tree/main/Uber%20data%20analysis) | Analyze Uber ride data, uncover patterns in ride-sharing trends, peak times, and other insights. |
 
 ---
 
